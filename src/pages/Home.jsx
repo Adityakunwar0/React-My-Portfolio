@@ -35,7 +35,7 @@ const SOCIAL_LINKS = [
   },
   {
     label: "Portfolio",
-    href: "https://yourportfolio.com",
+    href: "https://adityakunwar.com.np/",
     icon: (
       <svg
         width="18"
