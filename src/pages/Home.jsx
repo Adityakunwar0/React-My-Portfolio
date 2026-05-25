@@ -59,7 +59,7 @@ const PROJECTS = [
     tech: ["React", "Node.js", "Bootstrap", "MySql", "Laravel"],
     desc: "Deployed a production-ready construction website with React and Laravel featuring project portfolio and service management system.",
     year: "2026",
-    link: "/",
+    link: "https://full-stack-construction.vercel.app/",
   },
   {
     title: "Grocery Delivery Website",
