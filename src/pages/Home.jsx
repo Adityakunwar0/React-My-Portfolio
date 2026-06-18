@@ -55,6 +55,13 @@ const SOCIAL_LINKS = [
 
 const PROJECTS = [
   {
+    title: "Municipality Management System",
+    tech: ["React", "Node.js", "Bootstrap", "MySql", "Laravel","Stripe",],
+    desc: "Built a React/Laravel municipality system featuring secure Stripe payments and comprehensive role-based admin governance.",
+    year: "2026",
+    link: "#",
+  },
+  {
     title: "Construction Company Website",
     tech: ["React", "Node.js", "Bootstrap", "MySql", "Laravel"],
     desc: "Deployed a production-ready construction website with React and Laravel featuring project portfolio and service management system.",
